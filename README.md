@@ -17,5 +17,5 @@ Je suis un étudiant en développement web passionné par la création d'applica
 
 ## Contact
 
-- Email : anthony.spiteri@gmail.com
-- LinkedIn : linkedin.com/in/anthony-spiteri/
+- Email : anthony.spiteri@hotmail.fr
+- LinkedIn : linkedin.com/in/anthony-spiteri-2a9147186/
