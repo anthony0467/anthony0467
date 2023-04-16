@@ -15,6 +15,7 @@ Je suis un étudiant en développement web passionné par la création d'applica
 - Vue.js
 - Git
 - SQL
+- Symfony
 
 ## Contact
 
