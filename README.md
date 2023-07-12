@@ -20,7 +20,7 @@ Je suis un étudiant en développement web passionné par la création d'applica
 ## Contact
 
 
-<p align="center">
+<p>
   <br/>
   <a href="mailto:anthony.spiteri@hotmail.fr?subject=Bonjour Anthony!" target="_blank">
     <img alt=" Bouton Mail"  src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
@@ -32,5 +32,5 @@ Je suis un étudiant en développement web passionné par la création d'applica
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anthony0467&theme=transparent&stroke=FE5268&ring=FE5268&currStreakNum=FE5268&sideNums=FE5268&dates=000000&currStreakLabel=FE5268&sideLabels=FE5268&fire=FE5268&border=FE5268)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anthony0467&theme=transparent&stroke=2B50E1&ring=2B50E1&currStreakNum=2B50E1&sideNums=2B50E1&dates=000000&currStreakLabel=2B50E1&sideLabels=2B50E1&fire=2B50E1&border=2B50E1)](https://git.io/streak-stats)
 
