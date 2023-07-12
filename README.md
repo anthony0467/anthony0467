@@ -32,5 +32,5 @@ Je suis un étudiant en développement web passionné par la création d'applica
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anthony0467&theme=transparent&stroke=2B50E1&ring=2B50E1&currStreakNum=2B50E1&sideNums=2B50E1&dates=000000&currStreakLabel=2B50E1&sideLabels=2B50E1&fire=2B50E1&border=2B50E1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anthony0467&theme=transparent&stroke=2B50E1&ring=2B50E1&currStreakNum=2B50E1&sideNums=2B50E1&dates=2B50E1&currStreakLabel=2B50E1&sideLabels=2B50E1&fire=2B50E1&border=2B50E1)](https://git.io/streak-stats)
 
